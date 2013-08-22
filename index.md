@@ -4,6 +4,8 @@
 
 * [twitter](https://twitter.com/golangtw)
 
+* [hackpad](http://golangtw.hackpad.com)
+
 ## 活動
 
 原則上每兩週一次聚會，不定期舉辦分享會。詳情請見官方 twitter。
