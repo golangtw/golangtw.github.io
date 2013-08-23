@@ -1,6 +1,7 @@
 ### 連結
 
-* [twitter](https://twitter.com/golangtw)
+* [twitter](https://twitter.com/golangtw) @golangtw 官方帳號
+* [delicious 書籤](https://delicious.com/golangtw) 分享過的連結彙整
 * [hackpad](http://golangtw.hackpad.com)
 
 ### 活動
