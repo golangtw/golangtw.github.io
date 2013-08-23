@@ -10,6 +10,10 @@
 * [GTG #2](http://registrano.com/events/gtg2) 2013/08/28 [c9s](https://twitter.com/c9s) & [devpoga](https://twitter.com/devpoga)
 * [GTG #1](http://registrano.com/events/gtg1) 2013/08/14
 
+### 聯絡
+
+可透過 [@golangtw](https://twitter.com/golangtw) 或 email 至 hsatac@golang.tw
+
 ### 資源
 
 #### 網站
