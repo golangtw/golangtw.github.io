@@ -24,6 +24,7 @@
 
 #### 書籍
 
+* [An Introduction to Programming in Go](http://www.golang-book.com/) (英文)
 * [Effective Go](http://golang.org/doc/effective_go.html) (英文)
 * [Go 入門指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (簡中)
 * [Go 編程基礎](https://github.com/Unknwon/go-fundamental-programming) (簡中)
