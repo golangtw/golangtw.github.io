@@ -6,7 +6,7 @@
 
 ### 活動
 
-原則上每兩週一次自由聊天聚會，不定期舉辦分享會。詳情請見官方 twitter。
+原則上每兩週一次自由聊天聚會，不定期舉辦分享會。詳情請見官方 twitter。如果你有想分享的主題，歡迎與我們聯繫。
 
 * [GTG #2](http://registrano.com/events/gtg2) 2013/08/28 [c9s](https://twitter.com/c9s) & [devpoga](https://twitter.com/devpoga)
 * [GTG #1](http://registrano.com/events/gtg1) 2013/08/14
